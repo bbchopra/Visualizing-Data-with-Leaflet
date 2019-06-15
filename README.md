@@ -11,8 +11,9 @@
 4. In browswer go to "http://127.0.0.1:8000/"
 5. Go to the folder link where the files/folders are placed
 
--> The map is displayed showing both Earthquaks (based on their longitude and latitude) and Tectonic plates line
--> You can use base maps to choose from different maps and selection of earthquake and/or tectonic plates to display
+## OutPut/Display
+- The map is displayed showing both Earthquaks (based on their longitude and latitude) and Tectonic plates line
+- Use base maps to choose from different maps and selection of earthquake and/or tectonic plates to display
 
 ## Other Info
 - Earth Quake markers size and color are based on earthquake magnitude.
